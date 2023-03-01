@@ -58,3 +58,5 @@ C:\Practice\NZWalk\NZWalksAPI\obj\Debug\net6.0\refint\NZWalksAPI.dll
 C:\Practice\NZWalk\NZWalksAPI\obj\Debug\net6.0\NZWalksAPI.pdb
 C:\Practice\NZWalk\NZWalksAPI\obj\Debug\net6.0\NZWalksAPI.genruntimeconfig.cache
 C:\Practice\NZWalk\NZWalksAPI\obj\Debug\net6.0\ref\NZWalksAPI.dll
+C:\Practice\NZWalk\NZWalksAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Practice\NZWalk\NZWalksAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
