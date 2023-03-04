@@ -8,7 +8,10 @@ namespace NZWalksAPI.Profiles
     {
         public RegionsProfile()
         {
-            CreateMap<Region, RegionResponse>().ReverseMap();
+            CreateMap<Region, RegionResponse>();
+            CreateMap<RegionResponse, Region>();
+
+            CreateMap<Region, RegionAddRequest>().ReverseMap();
         }
     }
 }

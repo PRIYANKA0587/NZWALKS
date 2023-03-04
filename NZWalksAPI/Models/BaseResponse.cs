@@ -7,5 +7,6 @@ namespace NZWalksAPI.Models
         public string Message { get; set; }
         public HttpStatusCode StatusCode { get; set; }
         public object Data { get; set; }
+        
     }
 }
